@@ -53527,7 +53527,7 @@ $0(){return this.a.rG(1)},
 $S:0}
 A.EK.prototype={
 T(a,b){var s=null,r=t.E,q=A.Ao(A.a5c(A.a([A.Ao(new A.e1(B.xm,A.MR(A.a5c(A.a([A.it("Hey, I'm",A.hT(s,20,s),s,s),A.it("Gerg\u0151 Csisz\xe1r",A.hT(B.dh,30,B.a6),s,s),new A.e1(B.xk,A.it("The website is currently under development, therefore some features are not yet available.",A.hT(s,20,s),s,s),s)],r),B.dV,B.eI),s,s),s),B.bT,1)],r),B.dW,B.de),B.bT,8)
-return A.Vl(A.a([q,A.Ao(A.MR(new A.rs(A.alf(s,s,new A.q9("/Users/csiszargergo/Documents/Git/MyWebsite/lib/assets/undraw_under_construction_-46-pa.png",s,s)),this.c.a/2,B.aD,s),s,s),B.bT,15),B.xu],r),B.de,B.c3)}}
+return A.Vl(A.a([q,A.Ao(A.MR(new A.rs(A.alf(s,s,new A.q9("lib/assets/undraw_under_construction_-46-pa.png",s,s)),this.c.a/2,B.aD,s),s,s),B.bT,15),B.xu],r),B.de,B.c3)}}
 A.a_m.prototype={}
 A.M9.prototype={
 o8(){var s=0,r=A.Z(t.jd),q,p=2,o,n=[],m,l,k,j
